@@ -4,7 +4,9 @@ Hi 👋 My name is Srinivas T B
 Data Analyst
 ------------
 
-Hey there! I am Srinivas in my sophomore year at SRM Institute of Science & Technology! I am experienced in data cleaning methodologies and use data visualization techniques to present the results. I use SQL, Python, Tableau & PowerBI for my data projects. I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs. Highly analytical and process-oriented data analyst with in-depth knowledge of database types, research methodologies and big data capture, curation, manipulation and visualization. Furnish insights & analytics used to advance opportunity identification, process re-engineering and corporate growth
+<center>
+Hey there! I am Srinivas in my sophomore year at SRM Institute of Science & Technology! I am experienced in data cleaning methodologies and use data visualization techniques to present the results. I use SQL, Python, Tableau & PowerBI for my data projects. I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs. Highly analytical and process-oriented data analyst with in-depth knowledge of database types, research methodologies and big data capture, curation, manipulation and visualization. Furnish insights & analytics used to advance opportunity identification, process re-engineering and corporate growth.
+</center>
 
 * 🌍  I'm based in Bangalore, India
 * 🖥️  See my portfolio at [about.me/srinivastb](http://about.me/srinivastb)
