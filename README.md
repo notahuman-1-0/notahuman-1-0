@@ -1,4 +1,4 @@
-                                                            Hi 👋 My name is Srinivas T B
+Hi 👋 My name is Srinivas T B
 =============================
 
 Data Analyst
@@ -14,7 +14,7 @@ Hey there! I am Srinivas in my sophomore year at SRM Institute of Science & Tech
 * 🚀  I'm currently working on [World Happiness Report](http://github.com/notahuman-1-0/Happiness-Report-2021)
 * 🧠  I'm learning Business Intelligence & Marketing Analysis
 * 🤝  I'm open to collaborating on End-to-End Data Projects
-* ⚡  i'm not a cool kid.
+* ⚡  i'm a neutrino ⚛
 
 ### Skills
 
