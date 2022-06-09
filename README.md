@@ -12,7 +12,7 @@ Hey there! I am Srinivas in my sophomore year at SRM Institute of Science & Tech
 * 🌍  I'm based in Bangalore, India
 * 🖥️  See my portfolio at [about.me/srinivastb](http://about.me/srinivastb)
 * ✉️  You can contact me at [srinivastb@outlook.com](mailto:srinivastb@outlook.com)
-* 🚀  I'm currently working on [World Happiness Report](http://github.com/notahuman-1-0/Happiness-Report-2021)
+* 🚀  I'm currently working on [EPL Analysis](https://github.com/notahuman-1-0/EPL-Analysis)
 * 🧠  I'm learning Business Intelligence & Marketing Analysis
 * 🤝  I'm open to collaborating on End-to-End Data Projects
 * ⚡  i'm a neutrino ⚛
