@@ -1,7 +1,7 @@
 Hi 👋 My name is Srinivas T B
 =============================
 
-Data Analyst
+Machine Learning Engineer
 ------------
 ![](https://komarev.com/ghpvc/?username=notahuman-1-0&style=for-the-badge&color=ff69b4)
 --------------------------------------------------------------------------------------------------------
